@@ -1,0 +1,153 @@
+0197D858-33F7-4C93-B523-B4D4A5A7B3DA.jpeg time to detect: 0.05554; time to compute: 0.04465; number of kp 222
+06014722-CA40-4296-9807-9C92E2433100.jpeg time to detect: 0.0662; time to compute: 0.04131; number of kp 266
+09863482-68F4-4388-BFF2-F495F159C69C.jpeg time to detect: 0.06049; time to compute: 0.03968; number of kp 220
+0AB74F96-54BF-4CEE-894E-339D53674E13.jpeg time to detect: 0.06093; time to compute: 0.04883; number of kp 184
+0CCB6460-B44C-4BE8-80DE-3250AAFC6F6C.jpeg time to detect: 0.06268; time to compute: 0.03989; number of kp 261
+13592307-C8EC-4A44-9F22-6A4F67D3E8E3.jpeg time to detect: 0.06267; time to compute: 0.03772; number of kp 166
+1467F321-CD29-4CF5-9D11-70C947B1C5A2.jpeg time to detect: 0.06873; time to compute: 0.04217; number of kp 442
+1727AA57-0CB6-4BF1-B798-B5211E53BFFE.jpeg time to detect: 0.06275; time to compute: 0.03692; number of kp 127
+17552475-81B7-4851-A78F-C18975B4B243.jpeg time to detect: 0.06304; time to compute: 0.04157; number of kp 229
+17E33AC5-3D3A-4A4A-9C2D-C9C94C0B440E.jpeg time to detect: 0.06619; time to compute: 0.04588; number of kp 223
+18503B44-5EF7-4B7B-9F62-EFD13F9E47B7.jpeg time to detect: 0.07466; time to compute: 0.04455; number of kp 277
+1A0EEA21-D134-4EF4-BAA0-645532ECFAA0.jpeg time to detect: 0.06198; time to compute: 0.04116; number of kp 116
+1EA9DF64-7B5E-4937-81E6-130589B7E1C4.jpeg time to detect: 0.06432; time to compute: 0.04757; number of kp 121
+20E821C8-DDC2-49A4-8896-D0213413D7CC.jpeg time to detect: 0.06353; time to compute: 0.0428; number of kp 259
+21146FF0-018E-48BE-A225-30FD0AF30179.jpeg time to detect: 0.0716; time to compute: 0.0413; number of kp 273
+221A19D6-9036-4C9B-9456-4C6FE6CE730D.jpeg time to detect: 0.06456; time to compute: 0.04504; number of kp 194
+23FBD05E-88CC-4C72-8CE4-00B8CEDE7664.jpeg time to detect: 0.06189; time to compute: 0.04094; number of kp 220
+2501F53D-7184-439E-96F2-AA282AEAFA03.jpeg time to detect: 0.05923; time to compute: 0.04073; number of kp 265
+28153998-133C-4C0A-BEBB-C99111D4B366.jpeg time to detect: 0.0633; time to compute: 0.04173; number of kp 149
+2CC46190-DBA8-44F1-AC2E-E29FAB6102E7.jpeg time to detect: 0.06726; time to compute: 0.04598; number of kp 128
+2CC710AA-2BEA-40FC-88A3-F30527B89971.jpeg time to detect: 0.06093; time to compute: 0.0439; number of kp 487
+2D5D277C-E93A-4F32-8C9F-0C08677B07FE.jpeg time to detect: 0.06011; time to compute: 0.04742; number of kp 161
+3154B856-9C95-44A7-8BA9-5B8BD14CBB48.jpeg time to detect: 0.06153; time to compute: 0.04213; number of kp 227
+31EBEEBF-C74C-4DE0-A4A2-0DD5CEC0B1C1.jpeg time to detect: 0.06917; time to compute: 0.04555; number of kp 478
+326D8F16-BEFD-418C-982A-761166B3B1BF.jpeg time to detect: 0.06549; time to compute: 0.03896; number of kp 283
+36458A6A-CE58-497A-BFAB-D2E1148A8B6D.jpeg time to detect: 0.06299; time to compute: 0.041; number of kp 234
+36909BF4-1D8F-436C-A222-BA51904D7A70.jpeg time to detect: 0.06348; time to compute: 0.04373; number of kp 438
+36E8ED02-6BCE-4CB8-8887-3C0A42890D0A.jpeg time to detect: 0.06354; time to compute: 0.04087; number of kp 238
+3774F479-417D-4D03-ACD1-69012CCA735F.jpeg time to detect: 0.06213; time to compute: 0.04664; number of kp 141
+39B30190-53BC-4680-8742-17BD4FAAF713.jpeg time to detect: 0.06117; time to compute: 0.04094; number of kp 231
+3AD88B2C-E97D-463D-A125-F55B4FEC3909.jpeg time to detect: 0.05995; time to compute: 0.0494; number of kp 591
+3BADC6BB-F3BB-4C3C-9E21-A77F692AD2F5.jpeg time to detect: 0.06131; time to compute: 0.04085; number of kp 146
+42B820CF-623F-4E1E-B38F-AC4FC0CEA5FB.jpeg time to detect: 0.05903; time to compute: 0.04957; number of kp 255
+439E00CD-42AF-4E90-9BFF-AF07928FF105.jpeg time to detect: 0.05921; time to compute: 0.04738; number of kp 220
+446E4FD6-02F3-41F5-9633-357D6C4BF23B.jpeg time to detect: 0.06992; time to compute: 0.04079; number of kp 159
+44C07BC9-0782-49A7-9362-927DB78FA71A.jpeg time to detect: 0.0655; time to compute: 0.03749; number of kp 140
+4537972A-9333-45BA-8E91-A18DDE7C54C3.jpeg time to detect: 0.06432; time to compute: 0.04017; number of kp 250
+462388E7-E2AF-4158-97C4-220025E72DEA.jpeg time to detect: 0.06408; time to compute: 0.04504; number of kp 366
+4B753667-365F-4F5D-848F-6FD22A08DD5F.jpeg time to detect: 0.06747; time to compute: 0.04191; number of kp 233
+4C5A55D7-1DB9-4D84-BD9D-3EC7C2DE17AD.jpeg time to detect: 0.06178; time to compute: 0.05199; number of kp 524
+4CB169FD-4BD5-4D63-8CA3-6F655296DCA1.jpeg time to detect: 0.07192; time to compute: 0.0459; number of kp 163
+4FA72988-D339-4BB8-9EBA-9E424B24CF89.jpeg time to detect: 0.06703; time to compute: 0.0469; number of kp 134
+5051D7C6-FB53-4F63-A1E5-1029C2408572.jpeg time to detect: 0.06624; time to compute: 0.04826; number of kp 495
+51CDF751-E248-433A-B7CC-E91D4F01A274.jpeg time to detect: 0.06687; time to compute: 0.03721; number of kp 146
+51E65EBF-542B-48FB-9BF8-A9BB47247C2B.jpeg time to detect: 0.06452; time to compute: 0.04087; number of kp 152
+52B8EAE5-CABE-4D07-99FA-57F94B5C4DD6.jpeg time to detect: 0.06993; time to compute: 0.04584; number of kp 211
+580F83F7-2C05-4DFF-8945-492E325061B0.jpeg time to detect: 0.06185; time to compute: 0.04332; number of kp 110
+587F6B94-3E89-42D0-9F4D-1BB11B14A86A.jpeg time to detect: 0.06144; time to compute: 0.04342; number of kp 222
+5995A83D-0BB5-4488-81E9-DFB8907026E6.jpeg time to detect: 0.05737; time to compute: 0.04419; number of kp 247
+5A15A235-DF6F-4B45-86C5-298026CA34B1.jpeg time to detect: 0.06691; time to compute: 0.04323; number of kp 336
+5D8F6183-6352-4ACD-B66A-2A1DA99A834C.jpeg time to detect: 0.06457; time to compute: 0.04584; number of kp 286
+5F3165B4-229D-4BA8-A9B9-98B8ABB25C42.jpeg time to detect: 0.05618; time to compute: 0.04187; number of kp 116
+617C6F00-772F-438C-9B3E-CE9365EF387C.jpeg time to detect: 0.06625; time to compute: 0.04123; number of kp 207
+62611CF1-A2F2-4EFF-9C32-3171D3932ED9.jpeg time to detect: 0.06213; time to compute: 0.04166; number of kp 200
+633C2EAA-2B2A-4D76-8D2A-19D761C52945.jpeg time to detect: 0.06117; time to compute: 0.04323; number of kp 141
+643F5214-58CF-4458-8A8F-C9E53DDF1E4A.jpeg time to detect: 0.06197; time to compute: 0.04308; number of kp 159
+64C029D2-55DC-4FC9-8CA4-C5E11426DEDC.jpeg time to detect: 0.07131; time to compute: 0.04278; number of kp 165
+66104D71-8A60-4BFE-A19B-D79B962E738A.jpeg time to detect: 0.06837; time to compute: 0.04489; number of kp 245
+667602AD-3517-43E9-AE3E-031F6EC0803A.jpeg time to detect: 0.06908; time to compute: 0.04482; number of kp 180
+6AEB44F1-2E25-4780-966A-C7D3C221722E.jpeg time to detect: 0.06439; time to compute: 0.04725; number of kp 105
+735D7E9F-1F80-4B0D-A53F-8FA9664B4CFB.jpeg time to detect: 0.06371; time to compute: 0.04713; number of kp 171
+741DE180-CB85-40A6-BCBA-2E1CA1CFFCCF.jpeg time to detect: 0.06827; time to compute: 0.04678; number of kp 281
+77B2CD97-1599-4B74-8378-BF42C0274C07.jpeg time to detect: 0.06917; time to compute: 0.04736; number of kp 334
+784548C9-B5B0-43BC-BEA2-528AC0196922.jpeg time to detect: 0.07389; time to compute: 0.04583; number of kp 106
+78855F13-9300-44B3-9477-8080E090CD5F.jpeg time to detect: 0.06524; time to compute: 0.04978; number of kp 173
+7A4BFDFF-9EE8-40B2-85B9-25DFCC555F72.jpeg time to detect: 0.06432; time to compute: 0.04648; number of kp 172
+7A6303C6-F92F-432C-918B-31BE2BE7D761.jpeg time to detect: 0.06486; time to compute: 0.05277; number of kp 163
+7E80B79D-0604-4279-86C5-80E5D644E639.jpeg time to detect: 0.06809; time to compute: 0.04648; number of kp 231
+80848FC5-6BA3-4EFD-9311-02514A02C241.jpeg time to detect: 0.06653; time to compute: 0.04953; number of kp 319
+82E98C39-80D9-41EC-9389-F8384BB74048.jpeg time to detect: 0.07549; time to compute: 0.04513; number of kp 180
+847EA38B-F817-4736-BE29-556A947C6048.jpeg time to detect: 0.0675; time to compute: 0.04905; number of kp 209
+84997052-5DE8-46AE-9598-A09E8C4D1B64.jpeg time to detect: 0.06406; time to compute: 0.04638; number of kp 74
+889B801E-FE26-468A-B956-1E6F9EF65539.jpeg time to detect: 0.07374; time to compute: 0.04551; number of kp 247
+8A2C243C-1F66-47F9-B5C1-FD3A5E6CF546.jpeg time to detect: 0.0733; time to compute: 0.04931; number of kp 253
+8A6EF9CB-C512-4176-9EF5-55300F1DF4C1.jpeg time to detect: 0.06641; time to compute: 0.04622; number of kp 224
+90524091-F5D6-4C83-8631-97DD2C5649DA.jpeg time to detect: 0.07244; time to compute: 0.04825; number of kp 153
+9084E201-256E-42A5-B01C-232B10216A3E.jpeg time to detect: 0.06719; time to compute: 0.04523; number of kp 254
+9103446A-1FF8-4FA5-938F-D2938EFB70C0.jpeg time to detect: 0.06432; time to compute: 0.04788; number of kp 404
+914C8E47-7F71-41AB-8CC8-19AD0738AA07.jpeg time to detect: 0.07041; time to compute: 0.04603; number of kp 313
+948C7921-0E95-4178-A3A4-7795DDB2FCDC.jpeg time to detect: 0.06864; time to compute: 0.05193; number of kp 265
+97701DF1-DF0F-4B95-B705-F35D9D1BB3D6.jpeg time to detect: 0.06676; time to compute: 0.05067; number of kp 162
+98C52BFD-9EF9-4B76-9F02-4FFC05D5C68C.jpeg time to detect: 0.06975; time to compute: 0.05036; number of kp 252
+9D05DC92-DDEE-4C6B-BCC8-FB3937985908.jpeg time to detect: 0.06805; time to compute: 0.0516; number of kp 188
+A0451D31-FC1B-4EDD-BB01-CC1B5F53129A.jpeg time to detect: 0.07013; time to compute: 0.04767; number of kp 160
+A3FD753C-7B47-4C99-B1E6-2F612E8C5EB0.jpeg time to detect: 0.06673; time to compute: 0.046; number of kp 230
+A407EEFB-F5BF-4C24-99DB-F9E19FAF7536.jpeg time to detect: 0.06185; time to compute: 0.04713; number of kp 255
+A4106D19-5B42-446A-9B39-933082FAB947.jpeg time to detect: 0.06542; time to compute: 0.04611; number of kp 118
+A48838B2-75A5-443C-A81B-8DB87B93DD62.jpeg time to detect: 0.07483; time to compute: 0.04713; number of kp 149
+A78CD950-9860-47B7-BC97-154659622252.jpeg time to detect: 0.06937; time to compute: 0.04593; number of kp 253
+A9FA030F-FAB9-4539-84BE-8C4923C0CC55.jpeg time to detect: 0.06773; time to compute: 0.04661; number of kp 86
+AAFDD73F-E1BE-49B1-8CE5-F54F911759AA.jpeg time to detect: 0.06992; time to compute: 0.04718; number of kp 148
+ABB7AA0F-A125-4255-85CA-741B2B95A68E.jpeg time to detect: 0.0639; time to compute: 0.05038; number of kp 218
+AC0C10B0-1200-4DF1-993A-6C60C7816068.jpeg time to detect: 0.07188; time to compute: 0.04627; number of kp 139
+AEF3C650-2CB2-47EE-AA9C-DE555A422B9F.jpeg time to detect: 0.06583; time to compute: 0.04948; number of kp 393
+B18C80D6-623C-485A-8B09-60D9A2D67A24.jpeg time to detect: 0.06651; time to compute: 0.0444; number of kp 234
+B38A2435-D7B9-490C-81B8-85501CFDDF6A.jpeg time to detect: 0.06898; time to compute: 0.04567; number of kp 213
+B58D4D5F-FED0-4C1A-9098-AEB9D71421EC.jpeg time to detect: 0.06533; time to compute: 0.04458; number of kp 174
+B5C98591-A07A-4C84-9C35-6560110B073F.jpeg time to detect: 0.06561; time to compute: 0.0476; number of kp 164
+B60FCC15-4E9C-4455-A408-07E0146C0C02.jpeg time to detect: 0.0708; time to compute: 0.05083; number of kp 515
+B755FB1C-FE6E-4071-B9CA-8D4786C8F39F.jpeg time to detect: 0.06571; time to compute: 0.04509; number of kp 217
+B8DFC129-9AB8-4BD0-82E2-0E9CAA275CEF.jpeg time to detect: 0.07306; time to compute: 0.05257; number of kp 533
+BA7E6AE6-0634-4FB5-BF2C-91F74842F6DF.jpeg time to detect: 0.07335; time to compute: 0.04679; number of kp 155
+BE51A3DB-32F0-41D1-8A4D-F589150551C8.jpeg time to detect: 0.06134; time to compute: 0.04736; number of kp 120
+BF4C2AB4-2151-4FF5-898B-181DEEF9F011.jpeg time to detect: 0.06809; time to compute: 0.04771; number of kp 156
+C28B9AA8-9BF6-4D86-8806-A083BB120D7D.jpeg time to detect: 0.06648; time to compute: 0.04598; number of kp 227
+C588A291-B519-4A0D-8830-12585D190B5C.jpeg time to detect: 0.06868; time to compute: 0.0435; number of kp 198
+C615A986-0EC4-4662-8E2C-207425BF984F.jpeg time to detect: 0.07035; time to compute: 0.0478; number of kp 274
+CBB627BE-688B-4F22-9849-41F5D814B94B.jpeg time to detect: 0.06989; time to compute: 0.04692; number of kp 202
+CC683CEB-058D-405F-A8C3-1A28E3E76124.jpeg time to detect: 0.06368; time to compute: 0.04817; number of kp 180
+CD2DC5C1-EF4F-4C26-8FCD-8B087D269711.jpeg time to detect: 0.06743; time to compute: 0.04619; number of kp 173
+CE712E63-BFFC-44A7-B209-C1884ED7026B.jpeg time to detect: 0.06765; time to compute: 0.05827; number of kp 269
+D40674E6-65D1-4695-BB99-5298C27C3B5B.jpeg time to detect: 0.07844; time to compute: 0.04766; number of kp 213
+D6C97C9A-97C4-4A84-9497-7942517893CF.jpeg time to detect: 0.06667; time to compute: 0.04876; number of kp 401
+D73D90FD-B26E-405C-A144-FC7A9A83156C.jpeg time to detect: 0.06506; time to compute: 0.04762; number of kp 103
+D7C8081C-187B-4945-92A3-FE0EB8A2BE50.jpeg time to detect: 0.06951; time to compute: 0.04706; number of kp 113
+D9E6F9BB-0E1D-4503-AF2A-BDB5C11EC16A.jpeg time to detect: 0.06829; time to compute: 0.0472; number of kp 229
+DBEEA32D-5BF8-4266-A780-F5543369B734.jpeg time to detect: 0.06869; time to compute: 0.05054; number of kp 299
+DCA336DF-80BE-4503-816D-2850B4755F86.jpeg time to detect: 0.06846; time to compute: 0.04824; number of kp 282
+DD01BFA5-208A-4A8C-A943-CFEE4E19056A.jpeg time to detect: 0.06443; time to compute: 0.04819; number of kp 163
+DD51AC4B-1FB7-49F3-A2E6-F034700561BA.jpeg time to detect: 0.06426; time to compute: 0.04902; number of kp 242
+E049E42B-1003-4288-80E6-365FF570825A.jpeg time to detect: 0.06492; time to compute: 0.04482; number of kp 197
+E0606504-9FE3-4DE7-8759-DF19019C87B7.jpeg time to detect: 0.06651; time to compute: 0.04416; number of kp 142
+E29F0F4E-367B-4982-90FF-545C2EB26903.jpeg time to detect: 0.06611; time to compute: 0.04586; number of kp 304
+E776FADB-A9E9-4B92-AC4A-4A7FF369B03E.jpeg time to detect: 0.06884; time to compute: 0.04662; number of kp 151
+E7BA708C-D54E-490F-B669-3ED56DB3C04D.jpeg time to detect: 0.06838; time to compute: 0.04608; number of kp 128
+EA9483B1-39DD-4979-97A1-85D2F7EB4020.jpeg time to detect: 0.06554; time to compute: 0.05022; number of kp 258
+EC64E797-DAFA-4351-89B7-F43B97418B01.jpeg time to detect: 0.06651; time to compute: 0.04667; number of kp 186
+EDE9DCF1-37B9-4950-BC4A-2C6B42598126.jpeg time to detect: 0.06702; time to compute: 0.04296; number of kp 194
+F0B5E838-1A84-416A-9D2C-66B9DDC7657B.jpeg time to detect: 0.0658; time to compute: 0.0434; number of kp 119
+F3828C13-C21D-4639-8182-1863CEED7FCF.jpeg time to detect: 0.07004; time to compute: 0.0448; number of kp 188
+F3CB2296-A41B-4340-BA5D-3ECEB980B72F.jpeg time to detect: 0.06784; time to compute: 0.0504; number of kp 123
+F3D1E0C2-C963-471A-BDC1-334357544D2C.jpeg time to detect: 0.06907; time to compute: 0.0538; number of kp 492
+F8322A4D-6981-455B-B216-B62CB2946D4D.jpeg time to detect: 0.06874; time to compute: 0.05319; number of kp 256
+F848A18A-530F-461C-8987-D3621445C1F7.jpeg time to detect: 0.07767; time to compute: 0.05147; number of kp 202
+F9656BEF-A9EC-4A64-84B9-001B894F5FF1.jpeg time to detect: 0.08408; time to compute: 0.05691; number of kp 266
+F9A19A14-7B8B-42AE-886D-A11113A9AAA9.jpeg time to detect: 0.08094; time to compute: 0.06155; number of kp 390
+FB2C86E7-E632-4CCC-BDE1-B6E62B53D1D6.jpeg time to detect: 0.07998; time to compute: 0.06802; number of kp 427
+FE717838-B09B-45FF-9F54-FEE388E55BE4.jpeg time to detect: 0.10598; time to compute: 0.0634; number of kp 151
+FEACDA1D-470B-4720-A568-2A5654EB9287.jpeg time to detect: 0.11189; time to compute: 0.09932; number of kp 490
+corrcoef: [[1.        0.2631631]
+ [0.2631631 1.       ]]
+avg time to detect : 0.0672410071942446
+avg time to compute : 0.04665388489208633
+avg time to detect and compute : 0.05694744604316546
+avg number of kp : 231.32374100719426
+mode time to detect : ModeResult(mode=array([0.06432]), count=array([4]))
+mode time to compute : ModeResult(mode=array([0.04713]), count=array([3]))
+mode time to detect and compute : ModeResult(mode=array([0.06432]), count=array([4]))
+mode number of kp : ModeResult(mode=array([163]), count=array([3]))
+median time to detect : 0.06651
+median time to compute : 0.04611
+median time to detect and compute : 0.05912
+median number of kp : 217.0
