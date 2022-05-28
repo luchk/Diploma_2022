@@ -1,0 +1,3 @@
+0AB74F96-54BF-4CEE-894E-339D53674E13.jpeg to 4FA72988-D339-4BB8-9EBA-9E424B24CF89.jpeg detect time: 0.11596; compute time: 0.00733; detect and compute time: 0.12329; match time: 0.00456; number of good matches: 15; number of kp1: 852; number of kp 2: 677
+0AB74F96-54BF-4CEE-894E-339D53674E13.jpeg to 5D8F6183-6352-4ACD-B66A-2A1DA99A834C.jpeg detect time: 0.00599; compute time: 0.00789; detect and compute time: 0.01387; match time: 0.00635; number of good matches: 10; number of kp1: 852; number of kp 2: 1026
+0AB74F96-54BF-4CEE-894E-339D53674E13.jpeg to 0CCB6460-B44C-4BE8-80DE-3250AAFC6F6C.jpeg detect time: 0.00555; compute time: 0.00955; detect and compute time: 0.0151; match time: 0.00718; number of good matches: 10; number of kp1: 852; number of kp 2: 1259
